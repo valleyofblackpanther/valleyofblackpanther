@@ -1,7 +1,6 @@
 ### Hi there 👋
 [![](https://img.shields.io/badge/LinkedIn-KaushikChintam-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/chintam-kaushik20/)
 [![](https://img.shields.io/badge/Gmail-kaushikam12%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:kaushikam12@gmail.com)
-
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://sanchitbajaj02.github.io/portfolio/)](https://kaushikresumee.herokuapp.com/)
 [ ✍Blogging website](https://kaushikam12.wixsite.com/pennind)
 
