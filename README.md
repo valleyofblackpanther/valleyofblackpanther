@@ -1,7 +1,8 @@
 ### Hi there 👋
+[![](https://img.shields.io/badge/LinkedIn-KaushikChintam-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/chintam-kaushik20/)
+[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:kaushikam12@gmail.com)
+[![]((https://img.shields.io/badge/portfolio%20-website-brightgreen)](https://kaushikresumee.herokuapp.com/)
 
-<!--
-**valleyofblackpanther/valleyofblackpanther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
