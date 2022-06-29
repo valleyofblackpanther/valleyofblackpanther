@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![](https://img.shields.io/badge/LinkedIn-KaushikChintam-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/chintam-kaushik20/)
 [![](https://img.shields.io/badge/Gmail-kaushikam12%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:kaushikam12@gmail.com)
-[![]((https://img.shields.io/badge/portfolio%20-website-brightgreen?label=)](https://kaushikresumee.herokuapp.com/)
+[![Portfolio website &#128279;]((https://img.shields.io/badge/portfolio%20-website-brightgreen?label=)](https://kaushikresumee.herokuapp.com/)
 
 
 Here are some ideas to get you started:
