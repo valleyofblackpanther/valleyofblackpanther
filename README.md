@@ -1,8 +1,8 @@
 ### Hi there 👋
 [![](https://img.shields.io/badge/LinkedIn-KaushikChintam-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/chintam-kaushik20/)
 [![](https://img.shields.io/badge/Gmail-kaushikam12%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:kaushikam12@gmail.com)
-[Portfolio website &#128279;](https://kaushikresumee.herokuapp.com/)
-[Blogging website ✍](https://kaushikam12.wixsite.com/pennind)
+[ &#128279;Portfolio website](https://kaushikresumee.herokuapp.com/)
+[ ✍Blogging website](https://kaushikam12.wixsite.com/pennind)
 
 
 Here are some ideas to get you started:
