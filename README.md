@@ -5,7 +5,7 @@
  
  Hi fellow tech highbrows. I am Kaushik currently pursuing bachelors of computer science at Dr.MGR University. And acting as the Chief Technical Officer of [WAT](https://www.linkedin.com/in/web-arch-tech/) a startup company. 
  
-- 🔭 I’m currently working on an mobile application for health and safety to assist people when they are in an emergency.
+- 🔭 I’m currently working on an mobile application for health and safety to assist people when they are in an emergency or in a dangerous situation.
 - 🌱 I’m currently learning flutter.
 - 👯 I’m looking to do pair programmings.
 - 😄 Pronouns: He/Him
