@@ -3,7 +3,4 @@
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://kaushikresumee.herokuapp.com/)](https://kaushikresume.vercel.app/)
 [![Blogging](https://img.shields.io/website?color=blue&label=Blogging&style=flat&up_message=Online&url=https://kaushikam12.wixsite.com/pennind)](https://kaushikam12.wixsite.com/pennind)
  
- Hi fellow tech highbrows. I am Kaushik currently pursuing bachelors of computer science at Dr.MGR University.
- 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I wrote a book called [The Genikos Part-1](https://www.amazon.in/Genikos-Part-1-Kaushik-Chintam/dp/1637812957) 
+ Hi. I am Kaushik studying Masters In Computer Science at Queen Mary University Of London.
