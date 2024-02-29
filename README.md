@@ -2,6 +2,6 @@
 [![](https://img.shields.io/badge/Gmail-kaushikam12%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:kaushikam12@gmail.com)
 [![Blogging](https://img.shields.io/website?color=blue&label=Blogging&style=flat&up_message=Online&url=https://kaushikam12.wixsite.com/pennind)](https://kaushikam12.wixsite.com/pennind)
  
-Hi I am Kaushik Chintam. I'm a Masters student at Queen Mary University Of London from the the Department of Electrical Engineering and Computer Science, my supervisor is Dr.Nikos Tzelevekos, who I am working with on my masters thesis, on quantum lambda calculus. I did my Bachelor's in Computer Science in Dr.MGR University.
+Hi I am Kaushik Chintam. I'm a Masters student at Queen Mary University Of London from the the Department of Electrical Engineering and Computer Science, my supervisor is [Dr.Nikos Tzevelekos](https://www.tzevelekos.org/home), who I am working with on my masters thesis, on quantum lambda calculus. I did my Bachelor's in Computer Science in Dr.MGR University.
 
 These days I am interested in Quantum Computing, Proof theroy, Lambda calculus, Quantum Machine Learning and Statistical Mechanics. I work in Python, C, Rust a lot, but in the past I've written plenty of C++, C#, Java, Javascript. I am particularly interested in designing quantum ansatzs and type systems for computational effects, including for quantum computation. My understanding of these subjects is influenced by functional programming and by pure and applied category theory.
